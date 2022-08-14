@@ -1,1 +1,1 @@
-![Syed Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyepatch0&count_private=true&show_icons=true&theme=chartreuse-dark)
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Eyepatch0&theme=highcontrast" alt="Eyepatch0" /></p>
